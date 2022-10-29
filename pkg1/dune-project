@@ -1,0 +1,5 @@
+(lang dune 3.2)
+(name pkg1)
+(generate_opam_files true)
+(package
+ (name pkg1))

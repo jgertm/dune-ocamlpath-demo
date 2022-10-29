@@ -1,0 +1,4 @@
+(library
+ (name pkg2)
+ (public_name pkg2)
+ (libraries pkg1))
