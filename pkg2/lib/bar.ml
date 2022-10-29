@@ -1,3 +1,3 @@
-open Foo
+open Pkg1.Foo
 
-let url : Sometype = "https://github.com"
+let url : string = "https://github.com"
